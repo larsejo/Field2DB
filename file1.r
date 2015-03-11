@@ -1,3 +1,1 @@
-getwd()
-name <- "Ole"
-address <- "Oslo"
+name <- "Lars Erik"
